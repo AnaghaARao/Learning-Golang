@@ -5,7 +5,7 @@
 
 package main
 
-type messageToSend struct {
+type messageToSend1 struct {
 	phoneNumber int
 	message string
 }
